@@ -70,3 +70,11 @@ src/
     ├── DataChart.jsx         # Renders the `recharts` visual (bar, pie, line).
     └── SqlDisplay.jsx        # Renders the collapsible, highlighted SQL.
 ```
+
+
+
+
+
+
+
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/7ef2c820-8b2d-4aeb-900c-677d8125e8bd" />
